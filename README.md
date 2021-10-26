@@ -1,3 +1,5 @@
+[![adonis api](adonis-api.jpg)](https://github.com/danilo-righetto/adonis-api/)
+
 # Adonis - API
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/danilo-righetto/adonis-api/blob/master/LICENSE.md)
