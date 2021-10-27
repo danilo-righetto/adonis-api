@@ -10,6 +10,13 @@
 
 Working with [Adonis](https://www.youtube.com/watch?v=uVR8lTlBoag) for APIs.
 
+## Run the project locally
+
+Use this command to start the project with Adonis:
+```sh
+$ node ace serve --watch
+```
+
 ## Versioning
 
 To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.
